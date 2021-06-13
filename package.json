@@ -1,0 +1,11 @@
+{
+  "name": "snowpack-flow-remove-types",
+  "version": "0.0.0",
+  "description": "Runs flow-remove-types on .js and .jsx files built by snowpack",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.12.8",
+    "flow-remove-types": "^2.152.0"
+  }
+}
